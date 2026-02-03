@@ -15,7 +15,7 @@ namespace AccountWebService.Server.Controllers
             _dbContext = dbContext;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet(Name = "Get")]
         public IList<Account> Get()
         {
             return _dbContext.Accounts.ToList();
