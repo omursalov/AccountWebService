@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\App.vue",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
               "RelativeToolTip": "accountwebservice.client\\src\\App.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-02-03T15:49:20.867Z",
               "EditorCaption": ""
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\index.html",
               "RelativeDocumentMoniker": "accountwebservice.client\\index.html",
@@ -101,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "AccountWebService.Server\\Controllers\\WeatherForecastController.cs",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HelloWorld.vue",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\HelloWorld.vue",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\HelloWorld.vue",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "vite.config.ts",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\vite.config.ts",
               "RelativeDocumentMoniker": "accountwebservice.client\\vite.config.ts",

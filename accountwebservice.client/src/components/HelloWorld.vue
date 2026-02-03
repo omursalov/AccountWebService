@@ -1,6 +1,6 @@
 <template>
     <div class="weather-component">
-        <h1>Учетные записи <button name="button">+</button></h1>
+        <h1>Учетные записи <button type="submit" class="btn btn-primary">+</button></h1>
         <p>Для указания нескольких меток для одной пары логин/пароль используйте разделитель</p>
 
         <div v-if="post" class="content">
@@ -15,7 +15,7 @@
                 </thead>
                 <tbody>
                     <tr v-for="forecast in post" :key="forecast.date">
-                        <td>{{ forecast.date }}</td>
+                        <td><input type="text" v-model="forecast.summary" /></td>
                         <td>{{ forecast.temperatureC }}</td>
                         <td>{{ forecast.temperatureF }}</td>
                         <td>{{ forecast.summary }}</td>
@@ -27,6 +27,8 @@
 </template>
 
 <script lang="ts">
+    import "bootstrap/dist/css/bootstrap.min.css"
+    import "bootstrap"
     import { defineComponent } from 'vue';
 
     type Forecasts = {
