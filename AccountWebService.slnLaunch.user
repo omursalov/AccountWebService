@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "accountwebservice.client\\accountwebservice.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AccountWebService.Server\\AccountWebService.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

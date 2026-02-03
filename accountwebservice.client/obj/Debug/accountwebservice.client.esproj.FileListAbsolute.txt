@@ -1,0 +1,1 @@
+C:\Users\user\source\repos\AccountWebService\accountwebservice.client\obj\Debug\accountwebservice.client.esproj.CoreCompileInputs.cache

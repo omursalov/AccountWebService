@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:49196",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\..\\accountwebservice.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
