@@ -14,11 +14,11 @@
           </tr>
         </thead>
         <tbody>
-          <tr v-for="forecast in post" :key="forecast.date">
-            <td><input type="text" v-model="forecast.summary" /></td>
-            <td>{{ forecast.temperatureC }}</td>
-            <td>{{ forecast.temperatureF }}</td>
-            <td>{{ forecast.summary }}</td>
+          <tr v-for="forecast in post">
+            <td><input type="text" v-model="forecast.labels" /></td>
+            <td>{{ forecast.type }}</td>
+            <td>{{ forecast.login }}</td>
+            <td>{{ forecast.password }}</td>
           </tr>
         </tbody>
       </table>

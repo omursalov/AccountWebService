@@ -1,16 +1,18 @@
+using AccountWebService.Server.Enums;
+
 namespace AccountWebService.Server.Models
 {
     public class Account
     {
         public Guid Id { get; private set; }
 
-        public DateOnly Date { get; set; }
+        public string Labels { get; set; }
 
-        public int TemperatureC { get; set; }
+        public AccountType Type { get; set; }
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public string Login { get; set; }
 
-        public string? Summary { get; set; }
+        public string Password { get; set; }
 
         public Account()
         {

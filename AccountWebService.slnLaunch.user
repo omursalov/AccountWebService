@@ -3,11 +3,11 @@
     "Name": "Новый профиль",
     "Projects": [
       {
-        "Path": "accountwebservice.client\\accountwebservice.client.esproj",
+        "Path": "AccountWebService.Server\\AccountWebService.Server.csproj",
         "Action": "Start"
       },
       {
-        "Path": "AccountWebService.Server\\AccountWebService.Server.csproj",
+        "Path": "accountwebservice.client\\accountwebservice.client.esproj",
         "Action": "Start"
       }
     ]
