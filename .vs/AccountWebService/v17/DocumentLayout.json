@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AccountWebService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\stores\\accountstore.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\stores\\accountstore.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\accountwebservice.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\accountwebservice.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\stores\\accountstore.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\stores\\accountstore.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\components\\account.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\components\\account.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\accountwebservice.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\accountwebservice.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\components\\account.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\components\\account.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\assets\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -102,11 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "main.ts",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\main.ts",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\main.ts",
@@ -121,31 +121,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountWebService.Server",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\AccountWebService.Server.csproj",
-              "RelativeDocumentMoniker": "AccountWebService.Server\\AccountWebService.Server.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\AccountWebService.Server.csproj",
-              "RelativeToolTip": "AccountWebService.Server\\AccountWebService.Server.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T21:26:56.025Z",
+              "Title": "Account.vue",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\Account.vue",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
+              "RelativeToolTip": "accountwebservice.client\\src\\components\\Account.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-03T22:37:20.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\App.vue",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
+              "RelativeToolTip": "accountwebservice.client\\src\\App.vue",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-03T22:37:12.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountStore.ts",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\stores\\AccountStore.ts",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
               "RelativeToolTip": "accountwebservice.client\\src\\stores\\AccountStore.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-03T21:26:16.383Z",
+              "WhenOpened": "2026-02-03T22:25:16.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.css",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\assets\\main.css",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\assets\\main.css",
@@ -171,19 +185,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Account.vue",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
-              "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\Account.vue",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
-              "RelativeToolTip": "accountwebservice.client\\src\\components\\Account.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-02-03T20:07:30.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "AccountWebService.Server.http",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\AccountWebService.Server.http",
@@ -197,33 +198,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Program.cs",
               "RelativeDocumentMoniker": "AccountWebService.Server\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Program.cs",
               "RelativeToolTip": "AccountWebService.Server\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T15:31:00.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AccountWebService.Server\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AccountWebService.Server\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T15:44:38.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AccountWebService.Server\\Properties\\launchSettings.json",
@@ -232,6 +233,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-03T21:26:57.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountWebService.Server",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\AccountWebService.Server.csproj",
+              "RelativeDocumentMoniker": "AccountWebService.Server\\AccountWebService.Server.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\AccountWebService.Server.csproj",
+              "RelativeToolTip": "AccountWebService.Server\\AccountWebService.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T21:26:56.025Z",
               "EditorCaption": ""
             },
             {
@@ -258,19 +271,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-03T15:45:43.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.vue",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
-              "RelativeDocumentMoniker": "accountwebservice.client\\src\\App.vue",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
-              "RelativeToolTip": "accountwebservice.client\\src\\App.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-02-03T15:49:20.867Z",
               "EditorCaption": ""
             },
             {
@@ -320,7 +320,7 @@
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\stores\\AccountStore.ts",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
               "RelativeToolTip": "accountwebservice.client\\src\\stores\\AccountStore.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-03T20:00:49.461Z",
               "EditorCaption": ""

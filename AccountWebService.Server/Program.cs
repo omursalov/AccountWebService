@@ -3,6 +3,18 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("default",
+        policy =>
+        {
+            policy
+            .WithOrigins("*")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+        });
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -13,6 +25,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<AccountContext>();
 
 var app = builder.Build();
+
+app.UseCors(builder => builder.AllowAnyOrigin());
 
 using (var db = new AccountContext())
 {

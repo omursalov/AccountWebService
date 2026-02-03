@@ -4,7 +4,7 @@ namespace AccountWebService.Server.Models
 {
     public class Account
     {
-        public Guid Id { get; private set; }
+        public Guid Id { get; set; }
 
         public string Labels { get; set; }
 
@@ -13,10 +13,5 @@ namespace AccountWebService.Server.Models
         public string Login { get; set; }
 
         public string Password { get; set; }
-
-        public Account()
-        {
-            Id = Guid.NewGuid();
-        }
     }
 }

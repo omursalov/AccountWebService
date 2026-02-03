@@ -13,13 +13,32 @@ export const useAccountStore = defineStore('accountStore', {
       this.accounts = data;
     },
     async addAccount() {
-      this.accounts.push({
-        id: "941f5bee-7f69-4e83-b891-699d6a164586",
-        labels: "sdf; sdf; sdffsd",
+      const newAccount = {
+        id: crypto.randomUUID(),
+        labels: "Значение",
         type: 0,
-        login: "test",
-        password: "sdfsfdfds"
+        login: "Значение",
+        password: ""
+      };
+      const res = await fetch(`${url}/Account/Add`, {
+        method: "POST",
+        headers: {
+          'Accept': 'application/json, text/plain',
+          'Content-Type': 'application/json;charset=UTF-8',
+          'Access-Control-Allow-Headers': '*'
+        },
+        body: JSON.stringify(newAccount)
       });
+      this.getAccounts();
+    },
+    async deleteAccount(id: string) {
+      const res = await fetch(`${url}/Account/Delete?id=${id}`, {
+        method: "DELETE",
+        headers: {
+          'Access-Control-Allow-Headers': '*'
+        }
+      });
+      this.getAccounts();
     }
   }
 })

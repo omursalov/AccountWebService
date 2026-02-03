@@ -2,7 +2,7 @@
 {
     public enum AccountType
     {
-        Local,
-        LDAP
+        LDAP,
+        Local
     }
 }
