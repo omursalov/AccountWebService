@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountWebService.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a081559c6157ba22f9858ab4520b7a8546f6d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baa4ec6df7b5a77147be69f704679419b593185e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountWebService.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountWebService.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

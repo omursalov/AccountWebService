@@ -16,7 +16,7 @@ namespace AccountWebService.Server.Controllers
             _dbContext = dbContext;
         }
 
-        [HttpGet(Name = "Get")]
+        [HttpGet("Get")]
         public async Task<IList<Account>> GetAsync()
         {
             return await _dbContext.Accounts.ToListAsync();
