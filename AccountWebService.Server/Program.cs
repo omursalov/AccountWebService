@@ -1,3 +1,6 @@
+using AccountWebService.Server.Contexts;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,7 +10,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddTransient<AccountContext>();
+
 var app = builder.Build();
+
+using (var db = new AccountContext())
+{
+    db.Database.Migrate();
+}
 
 app.UseDefaultFiles();
 app.UseStaticFiles();

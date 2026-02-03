@@ -64,7 +64,7 @@
                 this.post = null;
                 this.loading = true;
 
-                var response = await fetch('weatherforecast');
+                var response = await fetch('account');
                 if (response.ok) {
                     this.post = await response.json();
                     this.loading = false;
