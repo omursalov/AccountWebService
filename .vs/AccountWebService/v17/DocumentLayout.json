@@ -3,24 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AccountWebService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\assets\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\assets\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\components\\account.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\components\\account.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\stores\\accountstore.ts||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\stores\\accountstore.ts||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\stores\\accountstore.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\stores\\accountstore.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\shims-vue.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\shims-vue.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +79,8 @@
       "RelativeMoniker": "D:0:0:{4BB3225C-2AE4-424B-83CB-24315D377153}|AccountWebService.Server\\AccountWebService.Server.csproj|solutionrelative:accountwebservice.server\\accountwebservice.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\accountwebservice.client.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\accountwebservice.client.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|c:\\users\\user\\source\\repos\\accountwebservice\\accountwebservice.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{68C1E7D7-AFC9-1F68-42BC-99166176BAF1}|accountwebservice.client\\accountwebservice.client.esproj|solutionrelative:accountwebservice.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,17 +90,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.ts",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\main.ts",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\main.ts",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\main.ts",
               "RelativeToolTip": "accountwebservice.client\\src\\main.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-03T15:47:53.976Z",
               "IsPinned": true,
@@ -80,46 +108,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\index.html",
-              "RelativeDocumentMoniker": "accountwebservice.client\\index.html",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\index.html",
-              "RelativeToolTip": "accountwebservice.client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-03T15:45:43.72Z",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\assets\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\assets\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\assets\\bootstrap.min.css",
+              "RelativeToolTip": "accountwebservice.client\\src\\assets\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T20:23:02.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "AccountWebService.Server\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "AccountWebService.Server\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:44:38.798Z",
+              "DocumentIndex": 5,
+              "Title": "Account.vue",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\Account.vue",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
+              "RelativeToolTip": "accountwebservice.client\\src\\components\\Account.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-03T20:07:30.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CHANGELOG.md",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\CHANGELOG.md",
-              "RelativeDocumentMoniker": "accountwebservice.client\\CHANGELOG.md",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\CHANGELOG.md",
-              "RelativeToolTip": "accountwebservice.client\\CHANGELOG.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T15:36:25.591Z",
+              "Title": "AccountStore.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "RelativeToolTip": "accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-03T19:43:13.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": ".gitattributes",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\.gitattributes",
               "RelativeDocumentMoniker": "accountwebservice.client\\.gitattributes",
@@ -132,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": ".editorconfig",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\.editorconfig",
               "RelativeDocumentMoniker": "accountwebservice.client\\.editorconfig",
@@ -145,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "AccountWebService.Server.http",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\AccountWebService.Server.http",
               "RelativeDocumentMoniker": "AccountWebService.Server\\AccountWebService.Server.http",
@@ -158,20 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HelloWorld.vue",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\HelloWorld.vue",
-              "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\HelloWorld.vue",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\HelloWorld.vue",
-              "RelativeToolTip": "accountwebservice.client\\src\\components\\HelloWorld.vue",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-02-03T15:33:20.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Program.cs",
               "RelativeDocumentMoniker": "AccountWebService.Server\\Program.cs",
@@ -184,46 +199,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\index.html",
+              "RelativeDocumentMoniker": "accountwebservice.client\\index.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\index.html",
+              "RelativeToolTip": "accountwebservice.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-03T15:45:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.vue",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\App.vue",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
               "RelativeToolTip": "accountwebservice.client\\src\\App.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-02-03T15:49:20.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "accountwebservice.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\CHANGELOG.md",
+              "RelativeToolTip": "accountwebservice.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-03T15:36:25.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "accountwebservice.client\\tsconfig.app.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\tsconfig.app.json",
+              "RelativeToolTip": "accountwebservice.client\\tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T19:59:01.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountStore.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "RelativeToolTip": "accountwebservice.client\\src\\stores\\AccountStore.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-03T20:00:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\package.json",
+              "RelativeDocumentMoniker": "accountwebservice.client\\package.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\package.json",
+              "RelativeToolTip": "accountwebservice.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T16:48:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "accountwebservice.client\\tsconfig.node.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\tsconfig.node.json",
+              "RelativeToolTip": "accountwebservice.client\\tsconfig.node.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T19:59:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\package-lock.json",
+              "RelativeDocumentMoniker": "accountwebservice.client\\package-lock.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\package-lock.json",
+              "RelativeToolTip": "accountwebservice.client\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T19:54:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "vite.config.ts",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\vite.config.ts",
               "RelativeDocumentMoniker": "accountwebservice.client\\vite.config.ts",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\vite.config.ts",
               "RelativeToolTip": "accountwebservice.client\\vite.config.ts",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-03T15:32:04.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\assets\\main.css",
-              "RelativeDocumentMoniker": "accountwebservice.client\\src\\assets\\main.css",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\assets\\main.css",
-              "RelativeToolTip": "accountwebservice.client\\src\\assets\\main.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-03T15:57:24.123Z",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AccountWebService.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AccountWebService.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:44:38.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "shims-vue.d.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\shims-vue.d.ts",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\shims-vue.d.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\shims-vue.d.ts",
+              "RelativeToolTip": "accountwebservice.client\\src\\shims-vue.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-03T19:33:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "accountwebservice.client",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\accountwebservice.client.esproj",
               "RelativeDocumentMoniker": "accountwebservice.client\\accountwebservice.client.esproj",
