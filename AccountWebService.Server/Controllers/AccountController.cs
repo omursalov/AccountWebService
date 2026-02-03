@@ -1,6 +1,7 @@
 using AccountWebService.Server.Contexts;
 using AccountWebService.Server.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AccountWebService.Server.Controllers
 {
@@ -16,9 +17,9 @@ namespace AccountWebService.Server.Controllers
         }
 
         [HttpGet(Name = "Get")]
-        public IList<Account> Get()
+        public async Task<IList<Account>> GetAsync()
         {
-            return _dbContext.Accounts.ToList();
+            return await _dbContext.Accounts.ToListAsync();
         }
     }
 }
