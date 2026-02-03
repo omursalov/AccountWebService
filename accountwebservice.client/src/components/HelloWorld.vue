@@ -1,20 +1,16 @@
 <template>
     <div class="weather-component">
-        <h1>Weather forecast</h1>
-        <p>This component demonstrates fetching data from the server.</p>
-
-        <div v-if="loading" class="loading">
-            Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationvue">https://aka.ms/jspsintegrationvue</a> for more details.
-        </div>
+        <h1>Учетные записи <button name="button">+</button></h1>
+        <p>Для указания нескольких меток для одной пары логин/пароль используйте разделитель</p>
 
         <div v-if="post" class="content">
             <table>
                 <thead>
                     <tr>
-                        <th>Date</th>
-                        <th>Temp. (C)</th>
-                        <th>Temp. (F)</th>
-                        <th>Summary</th>
+                        <th>Метки</th>
+                        <th>Тип записи</th>
+                        <th>Логин</th>
+                        <th>Пароль</th>
                     </tr>
                 </thead>
                 <tbody>
