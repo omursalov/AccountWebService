@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -120,28 +120,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.vue",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
-              "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\Account.vue",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
-              "RelativeToolTip": "accountwebservice.client\\src\\components\\Account.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-02-03T22:37:20.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "App.vue",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\App.vue",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\App.vue",
               "RelativeToolTip": "accountwebservice.client\\src\\App.vue",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-02-03T22:37:12.385Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -152,7 +140,7 @@
               "RelativeDocumentMoniker": "accountwebservice.client\\src\\stores\\AccountStore.ts",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\stores\\AccountStore.ts",
               "RelativeToolTip": "accountwebservice.client\\src\\stores\\AccountStore.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-03T22:25:16.535Z",
               "EditorCaption": ""
@@ -198,6 +186,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AccountWebService.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AccountWebService.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:44:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.vue",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
+              "RelativeDocumentMoniker": "accountwebservice.client\\src\\components\\Account.vue",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\accountwebservice.client\\src\\components\\Account.vue",
+              "RelativeToolTip": "accountwebservice.client\\src\\components\\Account.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-03T22:37:20.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Program.cs",
@@ -207,19 +221,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T15:31:00.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "AccountWebService.Server\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AccountWebService\\AccountWebService.Server\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "AccountWebService.Server\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:44:38.798Z",
               "EditorCaption": ""
             },
             {

@@ -1,15 +1,31 @@
 <template>
   <tr class="account">
-    <th><input type="text" class="form-control" :id="'labels-' + account.id" v-model="account.labels"></th>
     <th>
-      <select :id="'type-' + account.id" class="form-select form-control" v-model="account.type">
+      <input type="hidden" :id="'id-' + account.id" v-model="account.id">
+      <input type="text" class="form-control"
+             :id="'labels-' + account.id" v-model="account.labels"
+             @input="event => labels = event.target.value"
+             @blur="accountStore.updateAccount(account.id)"/>
+    </th>
+    <th>
+      <select :id="'type-' + account.id"
+              class="form-select form-control" v-model="account.type"
+              @change="event => type = event.target.value">
         <option value="0">Локальная</option>
         <option value="1">LDAP</option>
       </select>
     </th>
 
-    <th :colspan="account.type ? 1 : 2"><input type="text" class="form-control" :id="'login-' + account.id" v-model="account.login"></th>
-    <th v-if="account.type"><input type="password" :id="'password-' + account.id" class="form-control" v-model="account.password"></th>
+    <th :colspan="account.type ? 1 : 2">
+      <input type="text" class="form-control" :id="'login-' + account.id"
+             v-model="account.login" @input="event => login = event.target.value"
+             @blur="accountStore.updateAccount(account.id)">
+    </th>
+    <th v-if="account.type">
+      <input type="password" :id="'password-' + account.id" class="form-control"
+             v-model="account.password" @input="event => password = event.target.value"
+             @blur="accountStore.updateAccount(account.id)">
+    </th>
 
     <th>
       <button :id="'account-remove-' + account.id" type="button" class="btn btn-danger" @click="accountStore.deleteAccount(account.id)">

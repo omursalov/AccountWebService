@@ -24,17 +24,24 @@ namespace AccountWebService.Server.Controllers
             return await _dbContext.Accounts.ToListAsync();
         }
 
-        [HttpPost("Add")]
-        public async Task AddAsync([FromBody] Account account)
+        [HttpPost("AddOrUpdate")]
+        public async Task AddOrUpdateAsync([FromBody] Account account)
         {
-            await _dbContext.Accounts.AddAsync(account);
-            await _dbContext.SaveChangesAsync();
-        }
+            var currAccount = await _dbContext.Accounts.FirstOrDefaultAsync(x => x.Id == account.Id);
 
-        [HttpPost("Update")]
-        public async Task UpdateAsync([FromBody] Account account)
-        {
-            _dbContext.Accounts.Update(account);
+            if (currAccount == null)
+            {
+                await _dbContext.Accounts.AddAsync(account);
+            }
+            else
+            {
+                currAccount.Labels = account.Labels;
+                currAccount.Type = account.Type;
+                currAccount.Login = account.Login;
+                currAccount.Password = account.Password;
+                _dbContext.Accounts.Update(currAccount);
+            }
+
             await _dbContext.SaveChangesAsync();
         }
 

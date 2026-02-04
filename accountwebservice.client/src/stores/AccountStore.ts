@@ -13,22 +13,39 @@ export const useAccountStore = defineStore('accountStore', {
       this.accounts = data;
     },
     async addAccount() {
-      const newAccount = {
+      const account = {
         id: crypto.randomUUID(),
         labels: "Значение",
         type: 0,
         login: "Значение",
         password: ""
       };
-      const res = await fetch(`${url}/Account/Add`, {
+
+      const res = await fetch(`${url}/Account/AddOrUpdate`, {
         method: "POST",
         headers: {
           'Accept': 'application/json, text/plain',
           'Content-Type': 'application/json;charset=UTF-8',
           'Access-Control-Allow-Headers': '*'
         },
-        body: JSON.stringify(newAccount)
+        body: JSON.stringify(account)
       });
+
+      this.getAccounts();
+    },
+    async updateAccount(id: string) {
+      var account = this.accounts.find(x => x.id == id);
+      
+      const res = await fetch(`${url}/Account/AddOrUpdate`, {
+        method: "POST",
+        headers: {
+          'Accept': 'application/json, text/plain',
+          'Content-Type': 'application/json;charset=UTF-8',
+          'Access-Control-Allow-Headers': '*'
+        },
+        body: JSON.stringify(account)
+      });
+
       this.getAccounts();
     },
     async deleteAccount(id: string) {
