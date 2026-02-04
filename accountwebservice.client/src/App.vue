@@ -44,6 +44,7 @@
   import { useAccountStore } from './stores/AccountStore'
 
   const accountStore = useAccountStore()
+  accountStore.load()
 </script>
 
 <style scoped></style>

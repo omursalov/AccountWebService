@@ -7,18 +7,21 @@ export const useAccountStore = defineStore('accountStore', {
     accounts: [] as AccountDto[]
   }),
   actions: {
+    async load() {
+      this.getAccounts();
+    },
     async getAccounts() {
       const res = await fetch(`${url}/Account/Get`);
-      const data = await res.json();
+      const data: AccountDto[] = await res.json();
       this.accounts = data;
     },
     async addAccount() {
-      const account = {
+      const newAccount: AccountDto = {
         id: crypto.randomUUID(),
-        labels: "Значение",
-        type: 0,
+        labels: null,
+        type: 'local',
         login: "Значение",
-        password: ""
+        password: null
       };
 
       const res = await fetch(`${url}/Account/AddOrUpdate`, {
@@ -28,13 +31,17 @@ export const useAccountStore = defineStore('accountStore', {
           'Content-Type': 'application/json;charset=UTF-8',
           'Access-Control-Allow-Headers': '*'
         },
-        body: JSON.stringify(account)
+        body: JSON.stringify(newAccount)
       });
 
       this.getAccounts();
     },
     async updateAccount(id: string) {
-      var account = this.accounts.find(x => x.id == id);
+      const account = this.accounts.find(x => x.id == id) as AccountDto;
+
+      if (account.type == 'ldap') {
+        account.password = null;
+      }
       
       const res = await fetch(`${url}/Account/AddOrUpdate`, {
         method: "POST",
@@ -61,9 +68,9 @@ export const useAccountStore = defineStore('accountStore', {
 })
 
 interface AccountDto {
-  id: string
-  labels: string
-  type: number
-  login: string,
-  password: string
+  id: string;
+  labels: string | null;
+  type: string;
+  login: string;
+  password: string | null;
 }

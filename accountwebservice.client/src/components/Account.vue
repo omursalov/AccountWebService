@@ -10,18 +10,20 @@
     <th>
       <select :id="'type-' + account.id"
               class="form-select form-control" v-model="account.type"
-              @change="event => type = event.target.value">
-        <option value="0">Локальная</option>
-        <option value="1">LDAP</option>
+              @change="event => { type = event.target[event.target.selectedIndex].value; accountStore.updateAccount(account.id); }">
+        <option value="local">Локальная</option>
+        <option value="ldap">LDAP</option>
       </select>
     </th>
 
-    <th :colspan="account.type ? 1 : 2">
+    <th :colspan="account.type === 'local' ? 1 : 2">
       <input type="text" class="form-control" :id="'login-' + account.id"
              v-model="account.login" @input="event => login = event.target.value"
-             @blur="accountStore.updateAccount(account.id)">
+             @click = "event => { if (event.srcElement.value === 'Значение') { event.srcElement.value = '' } }"
+             @blur="accountStore.updateAccount(account.id)"
+             placeholder="Значение">
     </th>
-    <th v-if="account.type">
+    <th v-if="account.type === 'local'">
       <input type="password" :id="'password-' + account.id" class="form-control"
              v-model="account.password" @input="event => password = event.target.value"
              @blur="accountStore.updateAccount(account.id)">
